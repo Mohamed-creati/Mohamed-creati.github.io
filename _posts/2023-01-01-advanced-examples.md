@@ -5,8 +5,8 @@ layout: post
 categories: media
 ---
 
-![Let's jump out of something](/assets/skydive.jpg))
-
+![Let's jump out of something](/assets/skydive.jpg)
+I know I cannot believe this view too.
 
 ## MathJax
 
