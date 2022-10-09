@@ -28,7 +28,7 @@ I can say for sure it was the most exhilirating, awe inspiring experience that n
 
 [After the skydive}
 
-## Embedded content
+## Chill after that rush
 
 Nice sound if you are in the mood for a listen.
 
