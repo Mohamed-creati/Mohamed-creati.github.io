@@ -10,6 +10,8 @@ categories: media
 
 I know I cannot believe this view too.
 
+# Leading up to the day
+I was certainly questioning why I choose to do this when so many people attempted to talk me out of it. I have to admit the funniest thing I heard that day was when two of the skydivers slyly made an attempt at humour by saying, refuel the chopper halfway petrol, why? prices are high enough so it should last longer, i THINK.
 
 
 ## You would not actually think so but..
