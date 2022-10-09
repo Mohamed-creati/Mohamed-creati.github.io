@@ -16,7 +16,7 @@ I know I cannot believe this view too.
 
 I would have thought the height would be the scariest aspect of a skydive. It funnily enough was not, rather it was the waiting on the plane that gets to you. But the views were spectacular to say the least. 
 
-![Let's jump out of something](/assets/skydive.jpg)
+![Let's jump out of something](/assets/Sky.jpg)
 
 ## Two feet safely on the ground
 
@@ -28,6 +28,6 @@ I can say for sure it was the most exhilirating, awe inspiring experience that n
 
 ## Embedded content
 
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
+Nice sound if you are in the mood for a listen.
+
 {% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
-https://www.youtube.com/watch?v=sDSOOtWAF0k
