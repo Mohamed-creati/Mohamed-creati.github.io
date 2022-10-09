@@ -12,21 +12,11 @@ I know I cannot believe this view too.
 
 
 
-## Code
+## You would not actually think so but..
 
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
+I would have thought the height would be the scariest aspect of a skydive. It funnily enough was not, rather it was the waiting on the plane that gets to you. But the views were spectacular to say the least. 
 
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
+![Let's jump out of something](/assets/skydive.jpg)
 
 ## Two feet safely on the ground
 
